@@ -1,4 +1,4 @@
-GO_MODULE := github.com/shridharpolas/my-grpc-proto
+GO_MODULE := github.com/code-8888888888/my-grpc-proto
 
 .PHONY: clean
 clean:
