@@ -5,7 +5,7 @@ package payment;
 import "proto/transaction/cart.proto";
 
 option go_package = 
-"github.com/shridharpolas/my-grpc-proto/protogen/go/payment";
+"github.com/code-8888888888/my-grpc-proto/protogen/go/payment";
 
 message PaymentRequest {
   transaction.Cart cart = 1;
